@@ -1,28 +1,62 @@
 <h1 align="center">Hi 👋, I'm Krishna Awasthi</h1>
-<h3 align="center">Backend-Focused Developer | Java | Spring Boot | System Design</h3>
+<h3 align="center">Java Developer | Backend Developer | SDE Aspirant</h3>
+
+<p align="center">
+Backend-focused engineer passionate about building scalable systems, clean APIs, and production-ready backend services.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello! I'm Krishna, a passionate software developer with a strong focus on **backend development and problem solving**.  
-I enjoy building **scalable, reliable systems**, working with APIs, databases, and improving performance through clean architecture.
+I am a **Backend-focused Java Developer** with strong fundamentals in **Core Java, OOPs, and Data Structures**.  
+I enjoy designing **RESTful APIs**, working with **databases**, and understanding **system design & scalability**.
 
-🌱 **Currently Learning:** System Design, Distributed Systems, Advanced Spring Boot  
-💼 **Projects:** Backend-heavy applications using Java, Spring Boot, REST APIs, MySQL, MongoDB  
-🤝 **Looking For:** Backend / SDE Internships and impactful collaborations  
-🎯 **Goal:** To build production-grade systems and grow as a strong backend engineer  
-⚡ **Fun Fact:** I enjoy breaking systems to understand how they really work 😄
+- 🌱 Currently learning **Advanced Spring Boot, System Design & Distributed Systems**
+- 🧠 Solved **280+ DSA problems on LeetCode**
+- 💼 Interested in **Backend / SDE Intern & Entry-level roles**
+- 🎯 Goal: Build **reliable, scalable, real-world backend systems**
 
 ---
 
-## 🌐 Socials
+## 🧩 Featured Projects
 
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+### 🔹 EduNexa – AI Powered Learning Management System
+**Tech:** Java, Spring Boot, JWT, MySQL, React, Firebase, Gemini API  
+- Built a **role-based LMS backend** supporting Teacher–Student workflows  
+- Implemented **JWT-based authentication & authorization** using Spring Security  
+- Integrated **AI-powered content generation** (summaries, quizzes, flashcards), reducing manual effort by **60%**  
+- Designed optimized REST APIs with Hibernate/JPA for concurrent user activity  
+
+🔗 GitHub Repo: https://github.com/KrishnaAwasthi28/Edunexa-AI-Powered-LMS
+
+---
+
+### 🔹 SplitEase – Expense Splitter Backend
+**Tech:** Java, Spring Boot, JWT, MySQL  
+- Developed a **multi-user expense management backend**  
+- Implemented **secure JWT authentication** with user-level data isolation  
+- Designed optimized APIs and DB schema for **low-latency performance** under concurrent requests  
+
+🔗 GitHub Repo: https://github.com/KrishnaAwasthi28/SplitEase
+
+---
+
+### 🔹 Device Recommendation System
+**Tech:** Java, Spring Boot, Python  
+- Built Java Spring Boot services integrating a **Python-based ML recommendation engine** via REST APIs  
+- Implemented input validation and structured API responses for consistent predictions  
+- Optimized backend-service communication for **stable end-to-end performance**
+
+🔗 GitHub Repo: https://github.com/KrishnaAwasthi28/Device-Recommender
+
+---
+
+## 🏅 Certifications
+
+- 🥇 **Oracle Java Foundations Certified Associate** (Aug 2025)
+- 📘 **Spring Framework & Spring Boot** – Udemy (Jun 2025)
+- ☁️ **AWS Solutions Architect (Training Program)** – Ethnus (Apr 2025)
 
 ---
 
@@ -30,14 +64,15 @@ I enjoy building **scalable, reliable systems**, working with APIs, databases, a
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
 </p>
 
 ---
@@ -45,18 +80,26 @@ I enjoy building **scalable, reliable systems**, working with APIs, databases, a
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KrishnaAwasthi28&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaAwasthi28&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-## 🚀 Most Used Languages
+## 📫 Connect With Me
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<p align="left">
+<a href="https://linkedin.com/in/krishna-awasthi-5a26a1213" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/KrishnaAwasthi28" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://leetcode.com/u/krishhawasthi28/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 </p>
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ *If you find my work interesting, feel free to star my repositories!*
