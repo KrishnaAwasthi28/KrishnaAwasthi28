@@ -80,8 +80,8 @@ I enjoy designing **RESTful APIs**, working with **databases**, and understandin
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KrishnaAwasthi28&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaAwasthi28&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KrishnaAwasthi28&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaAwasthi28&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
