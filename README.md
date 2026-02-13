@@ -13,7 +13,7 @@ I am a **Backend-focused Java Developer** with strong fundamentals in **Core Jav
 I enjoy designing **RESTful APIs**, working with **databases**, and understanding **system design & scalability**.
 
 - 🌱 Currently learning **Advanced Spring Boot, System Design & Distributed Systems**
-- 🧠 Solved **280+ DSA problems on LeetCode**
+- 🧠 Solved **300+ DSA problems on LeetCode**
 - 💼 Interested in **Backend / SDE Intern & Entry-level roles**
 - 🎯 Goal: Build **reliable, scalable, real-world backend systems**
 
