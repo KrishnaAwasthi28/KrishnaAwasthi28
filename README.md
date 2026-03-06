@@ -42,11 +42,14 @@ I enjoy designing **RESTful APIs**, working with **databases**, and understandin
 
 ---
 
-### 🔹 Device Recommendation System
-**Tech:** Java, Spring Boot, Python  
-- Built Java Spring Boot services integrating a **Python-based ML recommendation engine** via REST APIs  
-- Implemented input validation and structured API responses for consistent predictions  
-- Optimized backend-service communication for **stable end-to-end performance**
+### 🔹 SkillSyncAI– AI Resume-Job Description Analyzer
+**Tech:** React.js, Spring Boot, FastAPI, Python, RAG, FAISS, LangChain
+- Built a full-stack AI resume analysis platform using React, Spring Boot, and FastAPI, implementing a
+RAG pipeline with FAISS vector search to evaluate resume–job description similarity.
+- Designed an AI evaluation pipeline (Loader → Chunker → Embeddings → Vector Search → LLM)
+processing 20–30 chunks per request, achieving 65–70% semantic match accuracy during testing.
+- Implemented a microservice architecture where Spring Boot communicates with a FastAPI AI service,
+delivering 3–5s analysis latency and handling 50+ test requests reliably.
 
 🔗 GitHub Repo: https://github.com/KrishnaAwasthi28/Device-Recommender
 
